@@ -1,4 +1,4 @@
 To install the package, go to MyOpenMore/OpenMORe/ via terminal
 Verify that requirements.txt are satisfied
 Execute:
-python setup.py --install
+python setup.py install
